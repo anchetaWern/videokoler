@@ -1,0 +1,15 @@
+{
+  "name": "getusermedia",
+  "homepage": "https://github.com/addyosmani/getUserMedia.js",
+  "version": "0.3.0",
+  "_release": "0.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.3.0",
+    "commit": "330fa9a48aaf9e4250a8586f5aa9dd40ff6f25ae"
+  },
+  "_source": "git://github.com/addyosmani/getUserMedia.js.git",
+  "_target": "~0.3.0",
+  "_originalSource": "getusermedia",
+  "_direct": true
+}
